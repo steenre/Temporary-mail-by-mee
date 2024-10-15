@@ -1,0 +1,8 @@
+Flask==3.0.3
+gunicon
+telebot
+json
+requests
+os
+Thread
+threading
